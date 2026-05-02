@@ -43,7 +43,7 @@ author1:
     # deviantart:      <username>
     # ello:            <username>
     # twitch:          <username>
-    # steam:           <number>
+    steam:           def-operator
     # reddit:          <username>
     # tumblr:          <username>
     # pinterest:       <username>
@@ -76,9 +76,3 @@ author1:
     # mastodon:        https://<url>
     # x:               <username>
 
-
-    Open `_data/authors.yml` to edit this text.
-
-  picture:           https://placehold.it/128x128
-  twitter:           <username>
-  github:            <username>
