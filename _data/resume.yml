@@ -1,0 +1,53 @@
+# Hydejack resume data
+# Based on the JSON Resume standard
+
+basics:
+  name: Niko Kompella
+  email: nikooink@hotmail.com
+  phone: 650-889-8441
+  location: Bay Area
+
+education:
+  - institution: College of San Mateo
+    studyType: AS in Chemistry (Dual Enrollment)
+    startDate: '2023'
+    endDate: '2025'
+    gpa: '3.9'
+  - institution: College of San Mateo
+    studyType: AS in Mathematics
+    startDate: '2025'
+    endDate: '2026'
+    gpa: '3.86'
+
+work:
+  - name: Organic Chemistry Tutor
+    location: Cañada College, Redwood City, CA
+    startDate: '2026-01'
+    summary: Worked as an embedded lab tutor assisting students with experiments, homework, and exam preparation for Organic Chemistry II.
+  - name: Front Desk and Swim Instructor
+    location: Burlingame Aquatic Center, Burlingame, CA
+    startDate: '2023-09'
+    summary: Managed front desk operations and delivered private swimming instruction upon request.
+
+projects:
+  - name: HinderD Distribution Network
+    startDate: '2024-05'
+    summary: Designed a data-driven overdose mapping tool using JavaScript to optimize Narcan distribution routes in the Bay Area.
+  - name: War Games and Dot Products
+    startDate: '2025-10'
+    endDate: '2025-11'
+    summary: Created a neural network in MATLAB to predict post-WWII era wars with over 70% accuracy using singular value decomposition.
+
+skills:
+  - name: Programming & Tools
+    keywords: [C, C++, Python, HTML, JS, Java, leaflet.js, MATLAB, LaTeX]
+  - name: Scientific
+    keywords: [Organic Chemistry, Organic Synthesis, Gel Electrophoresis, PCR Testing]
+  - name: Languages
+    keywords: [Telugu (Fluent), Hindi (Fluent), Arabic (Proficient), Urdu (Proficient), English (Native)]
+
+awards:
+  - title: Outstanding Delegate
+    awarder: BMUN 72
+    date: '2023-03'
+    summary: Awarded to six delegates out of 70+ in committee at the world's largest Model UN conference.
