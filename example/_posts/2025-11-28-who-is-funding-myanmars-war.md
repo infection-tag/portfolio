@@ -11,7 +11,7 @@ Several vested parties exist in the volatile and ever-changing landscape of Myan
 Several countries in ASEAN have differing stances. ASEAN's founding principle of non-interference prevents them from doing anything militarily or economically, though some countries in ASEAN have established contact with the resistance and others continue trading with the junta.
 
 <div style="text-align: center;">
-    <img src="{{ '/assets/img/asia-burma-alignment.png' | relative_url }}" 
+    <img src="{{ '/assets/img/blog/asia-burma-alignment.png' | relative_url }}" 
          alt="Asian stances on the War" 
          style="width: 100%; height: 100%; max-width: 100%;">
 </div>  
@@ -41,7 +41,7 @@ India maintains a balancing act, where it continues humanitarian aid to Chin peo
 Russia, the other primary funder (and arms trader) of the junta, has its eyes on the same trade route -- this time, to send oil to China. Though it has the Eastern Siberia-Pacific Ocean pipeline (ESPO), which allows Russia to funnel oil directly into mainland China through the Sino-Russian border, the whole of Yunnan (of which Kunming is the capital) is relatively isolated from the rest of the country due to mountainous terrain, which makes land transport from the ESPO infeasible and air transport a complete pipe dream. As such, Kunming's gas prices skyrocketed (though the Chinese National Development and Reform Commission have found ways to transport oil that don't involve the Yangon-Kunming route).
 
 <div style="text-align: center;">
-    <img src="{{ '/assets/img/railroad-china-burma.jpeg' | relative_url }}" 
+    <img src="{{ '/assets/img/blog/railroad-china-burma.jpeg' | relative_url }}" 
          alt="Proposed Railroad through Burma" 
          style="width: 100%; height: 100%; max-width: 100%;">
 </div>  
@@ -49,7 +49,7 @@ Russia, the other primary funder (and arms trader) of the junta, has its eyes on
 # Pro-Resistance funding
 
 <div style="text-align: center;">
-    <img src="{{ '/assets/img/na-burma-alignment.png' | relative_url }}" 
+    <img src="{{ '/assets/img/blog/na-burma-alignment.png' | relative_url }}" 
          alt="North American stances on the War" 
          style="width: 100%; height: 100%; max-width: 100%;">
 </div>  
@@ -57,7 +57,7 @@ Russia, the other primary funder (and arms trader) of the junta, has its eyes on
 Despite being endorsed (or, in some cases, supported illicitly) by several countries, most of which are in the EU or the general West, most funding happens from the Burmese diaspora. Millions of Burmese people live abroad in places like the US, Thailand, Singapore, Australia, and Europe, and these people raise funds for ethnic insurgent groups through platforms like Facebook, Telegram, PayPal, and GoFundMe-style events and campaigns. Raffles are also used, with prizes like iPhones promised to the winner with a $5 to $10 buy-in.
 
 <div style="text-align: center;">
-    <img src="{{ '/assets/img/eu-burma-alignment.png' | relative_url }}" 
+    <img src="{{ '/assets/img/blog/eu-burma-alignment.png' | relative_url }}" 
          alt="European stances on the War" 
          style="width: 100%; height: 100%; max-width: 100%;">
 </div>  
