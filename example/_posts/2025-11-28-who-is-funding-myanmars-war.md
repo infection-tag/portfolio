@@ -10,11 +10,7 @@ Several vested parties exist in the volatile and ever-changing landscape of Myan
 
 Several countries in ASEAN have differing stances. ASEAN's founding principle of non-interference prevents them from doing anything militarily or economically, though some countries in ASEAN have established contact with the resistance and others continue trading with the junta.
 
-<div style="text-align: center;">
-    <img src="{{ '/assets/img/blog/asia-burma-alignment.png' | relative_url }}" 
-         alt="Asian stances on the War" 
-         style="width: 100%; height: 100%; max-width: 100%;">
-</div>  
+![Asian stances on the War]({{ '/assets/img/blog/asia-burma-alignment.png' | relative_url }})
 
 Some countries are outspoken about the Rohingya genocide without taking stances on the war. Notable examples of this include Turkey and Saudi Arabia, who have denounced both the former government and the current government about their crackdown on the Muslim Rohingya population. This is a surprising change in policy, considering Turkey and Saudi Arabia's historical ties with certain anti-muslim regimes, such as the United States and Israel.
 
@@ -40,27 +36,15 @@ India maintains a balancing act, where it continues humanitarian aid to Chin peo
 
 Russia, the other primary funder (and arms trader) of the junta, has its eyes on the same trade route -- this time, to send oil to China. Though it has the Eastern Siberia-Pacific Ocean pipeline (ESPO), which allows Russia to funnel oil directly into mainland China through the Sino-Russian border, the whole of Yunnan (of which Kunming is the capital) is relatively isolated from the rest of the country due to mountainous terrain, which makes land transport from the ESPO infeasible and air transport a complete pipe dream. As such, Kunming's gas prices skyrocketed (though the Chinese National Development and Reform Commission have found ways to transport oil that don't involve the Yangon-Kunming route).
 
-<div style="text-align: center;">
-    <img src="{{ '/assets/img/blog/railroad-china-burma.jpeg' | relative_url }}" 
-         alt="Proposed Railroad through Burma" 
-         style="width: 100%; height: 100%; max-width: 100%;">
-</div>  
+![Proposed Railroad through Burma]({{ '/assets/img/blog/railroad-china-burma.jpeg' | relative_url }})
 
 # Pro-Resistance funding
 
-<div style="text-align: center;">
-    <img src="{{ '/assets/img/blog/na-burma-alignment.png' | relative_url }}" 
-         alt="North American stances on the War" 
-         style="width: 100%; height: 100%; max-width: 100%;">
-</div>  
+![North American stances on the War]({{ '/assets/img/blog/na-burma-alignment.png' | relative_url }})
 
 Despite being endorsed (or, in some cases, supported illicitly) by several countries, most of which are in the EU or the general West, most funding happens from the Burmese diaspora. Millions of Burmese people live abroad in places like the US, Thailand, Singapore, Australia, and Europe, and these people raise funds for ethnic insurgent groups through platforms like Facebook, Telegram, PayPal, and GoFundMe-style events and campaigns. Raffles are also used, with prizes like iPhones promised to the winner with a $5 to $10 buy-in.
 
-<div style="text-align: center;">
-    <img src="{{ '/assets/img/blog/eu-burma-alignment.png' | relative_url }}" 
-         alt="European stances on the War" 
-         style="width: 100%; height: 100%; max-width: 100%;">
-</div>  
+![European stances on the War]({{ '/assets/img/blog/eu-burma-alignment.png' | relative_url }})
 
 A major theater of the war is the economics, since both sides need money for arms and try their hardest to prevent their adversaries from getting funds. The war has been a spectacle in its use of internet to raise awareness and garner funds from their overseas brethren. 
 
@@ -68,6 +52,4 @@ Similarly, there are "adopt-a-soldier" programs which allow people to donate mon
 
 The government-in-exile, the National Unity Government of Myanmar, has also been doing some fundraising of its own. It sells "revolution bonds", effectively unofficial government savings bonds. Many people, particularly from the Burmese diaspora, buy them in solidarity, despite knowing that if the revolution loses, they will never see their money back. Similarly, the NUG (controversially) sells land that it claims the junta stole, which attracts wealthy Burmese people overseas. Millions have been raised like this.
 
-***
-
-Though several vested powers exist in support of the junta, resistance forces continue to hold territory due to modernized funding methods, tapping into the internet and a vested overseas population.
+*** Though several vested powers exist in support of the junta, resistance forces continue to hold territory due to modernized funding methods, tapping into the internet and a vested overseas population.
