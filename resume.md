@@ -13,6 +13,11 @@ Aspiring public policy analyst with experience in data-driven harm reduction ini
 
 ## Education
 
+### University of California, Berkeley
+**BA in Applied Mathematics** | 2026-2028
+* **Minor:** Public Policy
+* **Coursework:** Real Analysis, Complex Analysis, Modeling, Numerical Analysis, Stochastics, Game Theory
+
 ### College of San Mateo
 **AS in Chemistry (Dual Enrollment)** | 2023 - 2025
 * **GPA:** 3.9 (Magna Cum Laude)
@@ -41,24 +46,24 @@ Aspiring public policy analyst with experience in data-driven harm reduction ini
 
 ## Experience
 
-### Organic Chemistry Tutor
-**Cañada College, Redwood City, CA** | January 2026 - Present
-* Worked as an embedded lab tutor assisting students with experiments.
-* Provided homework and exam preparation support for Organic Chemistry II students.
-
 ### Front Desk and Swim Instructor
 **Burlingame Aquatic Center, Burlingame, CA** | September 2023 - Present
 * Managed front desk operations, assisting hundreds of customers with pass purchases.
 * Delivered private swimming instruction, frequently requested by parents and students.
+
+### Organic Chemistry Tutor
+**Cañada College, Redwood City, CA** | January 2026 - May 2026
+* Worked as an embedded lab tutor assisting students with experiments.
+* Provided homework and exam preparation support for Organic Chemistry II students.
 
 ---
 
 ## Skills
 * **Programming & Tools:** C, C++, Python, HTML, JS, Java, leaflet.js, MATLAB, LaTeX
 * **Scientific:** Organic Chemistry, Organic Synthesis, Gel Electrophoresis, PCR Testing
-* **Languages:** Telugu (Fluent), Hindi (Fluent), Arabic (Proficient), Urdu (Proficient), English (Native/Fluent)
+* **Languages:** Telugu (Fluent), Hindi (Fluent), Arabic (Proficient), Urdu (Proficient), English (Native/Fluent), Spanish (Proficient)
 
 ---
 
 ## Awards & Honors
-* **Outstanding Delegate - BMUN 72 (Mar 2023):** Awarded to six delegates out of 70+ in committee at the world's largest Model UN conference.
+* **Deans List - San Mateo Community College District (Summer 2024, Fall 2024, Spring 2025):** Awarded for maintaining a proficient GPA while being a full-time college student in high school.
