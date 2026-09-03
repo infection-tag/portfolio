@@ -4,66 +4,76 @@ sitemap: false
 ---
 
 # Niko Kompella
-**Bay Area** | [nikooink@hotmail.com](mailto:nikooink@hotmail.com) | [650-889-8441](tel:650-889-8441)
-
-## Summary
-Aspiring public policy analyst with experience in data-driven harm reduction initiatives and a strong foundation in chemistry, mathematics, and programming. Passionate about using strategic tools and technical skills to solve real-world health and community challenges.
-
----
-
-## Education
-
-### University of California, Berkeley
-**BA in Applied Mathematics** | 2026-2028
-* **Minor:** Public Policy
-* **Coursework:** Real Analysis, Complex Analysis, Modeling, Numerical Analysis, Stochastics, Game Theory
-
-### College of San Mateo
-**AS in Chemistry (Dual Enrollment)** | 2023 - 2025
-* **GPA:** 3.9 (Magna Cum Laude)
-* **Coursework:** Biology, General Chemistry, Organic Chemistry
-
-**AS in Mathematics** | 2025 - 2026
-* **GPA:** 3.86
-* **Coursework:** Calculus, Linear Algebra, MATLAB, Modeling, Differential Equations, Python, C++
+**Location:** Bay Area  
+**Email:** [nikooink@hotmail.com](mailto:nikooink@hotmail.com)  
+**Website:** [kompella.site](https://kompella.site) | **LinkedIn:** [niko-kinfection-tag](https://linkedin.com/in/niko-kinfection-tag)
 
 ---
 
-## Projects
-
-### HinderD Distribution Network (May 2024 - Present)
-* Designed a data-driven overdose mapping tool to identify high-risk areas and improve Narcan distribution strategies.
-* Developed a JavaScript-based heat map and interactive overdose visualizer to optimize Narcan distribution routes throughout the City of San Francisco and the Greater Bay Area.
-* Collaborated with city officials for insight into specific underserved districts.
-* Tactically distributed 200+ doses of nasal naloxone to residents of the San Francisco Peninsula.
-
-### War Games and Dot Products (October 2025 - November 2025)
-* Created a simple neural network in MATLAB to predict post-World War II era wars.
-* Reached over 70% accuracy using singular value decomposition to analyze neural network decision patterns.
-* Authored a research paper analyzing the results and neural network decision flags.
+## Professional Summary
+Applied math student with skills in data analysis in fields like data-driven harm reduction. Strong foundation in chemistry, mathematics, and programming, as well as applications of math to fields like military strategy, public policy, and chemistry.
 
 ---
 
 ## Experience
 
-### Front Desk and Swim Instructor
-**Burlingame Aquatic Center, Burlingame, CA** | September 2023 - Present
-* Managed front desk operations, assisting hundreds of customers with pass purchases.
-* Delivered private swimming instruction, frequently requested by parents and students.
+### **Undergraduate Technical Intern**  
+*Los Alamos National Laboratory* — Los Alamos, NM  
+`July 2026 – Present`
 
-### Organic Chemistry Tutor
-**Cañada College, Redwood City, CA** | January 2026 - May 2026
-* Worked as an embedded lab tutor assisting students with experiments.
-* Provided homework and exam preparation support for Organic Chemistry II students.
+- Developed data analysis tools for mechanistic interpretability to assist with modeling and simulation.
+- Worked with Controlled Unclassified Information (CUI) in accordance with federal handling requirements.
+
+### **Organic Chemistry Tutor**  
+*Cañada College* — Redwood City, CA  
+`January 2026 – May 2026`
+
+- Assisted students with homework and exam preparation as an Organic Chemistry II tutor.
 
 ---
 
-## Skills
-* **Programming & Tools:** C, C++, Python, HTML, JS, Java, leaflet.js, MATLAB, LaTeX
-* **Scientific:** Organic Chemistry, Organic Synthesis, Gel Electrophoresis, PCR Testing
-* **Languages:** Telugu (Fluent), Hindi (Fluent), Arabic (Proficient), Urdu (Proficient), English (Native/Fluent), Spanish (Proficient)
+## Education
+
+### **University of California, Berkeley**  
+**B.A. Applied Math** (Concentration: Statistics | Minor: Public Policy)  
+`2026 – 2028`
+
+### **College of San Mateo**  
+**A.S. Chemistry, Mathematics** — *GPA: 3.86*  
+`2024 – 2026`  
+*Note: Chemistry degree was completed as dual enrollment during high school.*  
+
+- **Relevant Coursework:** Calculus, Linear Algebra, MATLAB, Modeling, Differential Equations, Python, C++, Biology, Organic Chemistry
+
+---
+
+## Projects
+
+### **HinderD Distribution Network**  
+`May 2024 – April 2026`
+
+- Created a data-driven Narcan distribution harm reduction initiative to strategically target the growing number of drug overdoses in my community.
+- Developed a JavaScript-based heat map and interactive overdose visualizer to optimize Narcan distribution routes throughout the City of San Francisco and the Greater Bay Area.
+- Collaborated with city officials for insight into specific underserved districts.
+- Tactically distributed 200+ doses of nasal naloxone to residents of the San Francisco Peninsula.
+
+### **War Games and Dot Products**  
+`October 2025 – November 2025`
+
+- Created a simple neural network in MATLAB and used said neural network to predict wars from the post-World War II era.
+- Used singular value decomposition (SVD) to analyze what the neural network prioritized and wrote a research paper on the results (reached over 70% accuracy).
 
 ---
 
 ## Awards & Honors
-* **Deans List - San Mateo Community College District (Summer 2024, Fall 2024, Spring 2025):** Awarded for maintaining a proficient GPA while being a full-time college student in high school.
+
+- **Dean's List** — *San Mateo Community College District* (`2024, 2025`)  
+  Awarded for maintaining community college GPA as a high school dual enrollment student.
+
+---
+
+## Skills
+
+- **Tools & Programming:** C, C++, Python, HTML, JS, Java, Leaflet.js, MATLAB, LaTeX
+- **Technical & Laboratory Skills:** Strategy, Organic Chemistry, Organic Synthesis, Gel Electrophoresis, PCR Testing
+- **Languages:** English (Native/Fluent), Telugu (Fluent), Hindi (Fluent), Arabic (Proficient), Urdu (Proficient)ile being a full-time college student in high school.
